@@ -1,41 +1,62 @@
-# Manuel des Ventes de l'EPV : Interventions Christian Bonato
+  
+# Manuel des Ventes de l'EPV : Interventions Christian Bonato  
+  
+---  
+  
+##  **Février 2018**   
+  
+
+
+### Licence de logiciel  
+  
+ - Back-End (Intranet/Extranet) : Licence mensuelle 100 postes
+ - Front-End (Web App) : Licence mensuelle 100 000 postes (web, clés USB)
+
+| Mois d'exploitation | Montant licence | Montant réglé |  
+|--|--|--|--|  
+| 11 | 1 800 € | 0 € |  
+|  |**Cumul licence**|   **Total réglé**  |  
+|   | 19 800 € | 0 € |  
 
 ---
 
-## **Septembre 2013**  
+### Décomptes jours / homme  
+  
 
-### Décomptes jours / homme
+|Jours/Homme| Montant interventions | Montant réglé |  
+|--|--|--|--|  
+| 0 | 0 € | 0 € |  
+|**Cumul J/H**|  **Cumul interventions**  |  **Total réglé**  |  
+| 488 | 292 800 € | 0 € |  
+  
 
-|Jours/Homme| Montant interventions | Montant réglé |
-|--|--|--|--|
-| 0 | 0 € | 0 € |
-|**Cumul J/H**| **Cumul interventions** | **Total réglé** |
-| 0 | 0 € | 0 € |
+ - Jours/Homme effectués : [détail](https://docs.google.com/spreadsheets/d/12Sk2XW79sJFbFnP6JxdwhXvwpEFnE7bYMOpB90mZbys/edit#gid=356971279)  
+ - Pièces : [télécharger](https://drive.google.com/file/d/1TIzLRgRi2fjVT47zZ7cti2-j1S89BSwe/view?usp=sharing) 
+ - Communications : [e-mails](http://ns367573.ovh.net/castle_intranet/utilities/emails_by_category/2018-02)  
 
+---  
+  
 
- - ~~Jours/Homme effectués : détail~~
- - Pièces : [télécharger](https://drive.google.com/file/d/1BpLAAdtNL1i7qtbb6kKXkxv2xc182yYW/view?usp=sharing)
- - Communications : [e-mails](http://ns367573.ovh.net/castle_intranet/utilities/emails_by_category/2013-09)
+### Détail Interventions  
+  
 
----
+- Interventions Contenus, Design : [détail](http://ns367573.ovh.net/castle_intranet/utilities/reorganiser/design/2018-02)    
+ - ~~Interventions Front-End  (Web App v. 3) : détail~~  
+ - ~~Interventions Back-End (Intranet) : détail~~  
+ - ~~Interventions Base de Données : détail~~  
+  
+---  
 
-### Détail Interventions
+### Sauvegardes  
+  
+ - ~~Sauvegardes Front-End : codes source Web App~~  
+ - ~~Sauvegardes Back-End : codes source Intranet~~  
+ - ~~Sauvegardes Base de Données : mysql dumps~~  
+ - ~~Sauvegardes Base de Données : mysql raw files~~  
+  
+---  
+  
 
-- Interventions Contenus, Design : [détail](http://ns367573.ovh.net/castle_intranet/utilities/reorganiser/design/2013-09)  
- - ~~Interventions Front-End  (Web App v. 1) : détail~~
- - ~~Interventions Back-End (Intranet) : détail~~
- - ~~Interventions Base de Données : détail~~
-
----
-
-### Sauvegardes
-
- - ~~Sauvegardes Front-End : codes source Web App~~
- - ~~Sauvegardes Back-End : codes source Intranet~~
- - ~~Sauvegardes Base de Données : mysql dumps~~
- - ~~Sauvegardes Base de Données : mysql raw files~~
-
----
 
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 
